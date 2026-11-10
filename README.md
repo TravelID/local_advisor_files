@@ -18,11 +18,11 @@ As the collection grows, tools may cover:
 - **Daily advisor productivity** — simple organisers and workflow helpers.
 - **Supplier and product resources** — tools for finding, presenting and organising travel products.
 
-Each published tool will have its own instructions and any relevant requirements or limitations. **The collection is being launched; HTML tools have not yet been uploaded to this repository.**
+Each published tool has its own download link, instructions and any relevant requirements or limitations.
 
 ## Getting started
 
-Once a tool is published:
+To use a published tool:
 
 1. Select the tool from the collection.
 2. Read its description and usage notes.
@@ -33,9 +33,11 @@ Some tools may work offline; others may need an internet connection or access to
 
 ## Available tools
 
-**The collection is being prepared.** Links to the individual tools will be added here as they become available.
+| Tool | Description | Version | Download / Instructions |
+| --- | --- | --- | --- |
+| **Cruise Advisor Qualification Form** | A structured cruise consultation checklist covering client preferences, destinations, cabins, inclusions, travel arrangements and follow-up steps. Print to A4 or export answers to CSV. | **v1.0** | [Get the form](tools/cruise-advisor-qualification-form/README.md) · [Download HTML](tools/cruise-advisor-qualification-form/Cruise_Advisor_Qualification_Form_v1.0.html) |
 
-You can bookmark this page or return to it for newly published utilities.
+More advisor tools will be listed here as they are released.
 
 ## A note on professional use and data privacy
 
