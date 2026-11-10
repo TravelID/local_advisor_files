@@ -1,89 +1,56 @@
 # Local Advisor Files
 
-**Practical, browser-based tools for travel advisors.**
+### Practical tools for everyday travel advisor workflows
 
-Local Advisor Files is a collection of standalone HTML utilities designed to help travel advisors simplify everyday work, reduce repetitive data entry and keep useful reference information close at hand.
+Travel advisors spend enough time switching between reservation systems, supplier websites, emails and spreadsheets. Some everyday tasks can be made easier with a simple, purpose-built tool.
 
-The aim is straightforward: **small, practical tools that support the advisor's workflow without requiring a full software platform.**
+**Local Advisor Files** brings together lightweight HTML utilities designed to help travel advisors reduce repetitive administration, organise information and prepare routine tasks more efficiently.
 
-## About this project
+The focus is practical: tools that support the way advisors work, without requiring a large software platform for every task.
 
-Travel advisors regularly work across reservation systems, supplier websites, spreadsheets, email and internal processes. Not every task needs a complex application. Sometimes a simple local HTML file can make a recurring job easier.
+## What you'll find here
 
-This repository is intended as a central home for HTML tools developed for travel-advisor use. Individual utilities may support:
+As the collection grows, tools may cover:
 
-- **Client and booking administration** — local booking records, checklists and follow-up trackers.
-- **Travel documentation and GDS preparation** — structured data capture and formatting assistance for APIS, passport information and related entries.
-- **Quoting and product research** — reference guides, indicative calculators and itinerary support.
-- **Advisor productivity** — rosters, performance trackers and administrative workflows.
-- **Supplier and affiliate resources** — configurable local tools that help organise or display relevant travel products.
+- **Bookings and client administration** — checklists, tracking and follow-up utilities.
+- **GDS and travel documentation** — assistance preparing structured information and correctly formatted entries.
+- **Quoting and itinerary support** — reference tools, indicative calculations and trip-planning aids.
+- **Daily advisor productivity** — simple organisers and workflow helpers.
+- **Supplier and product resources** — tools for finding, presenting and organising travel products.
 
-These are intended categories, **not a claim that every tool is already available**. See the files and directories in this repository for what has actually been published.
+Each published tool will have its own instructions and any relevant requirements or limitations. **The collection is being launched; HTML tools have not yet been uploaded to this repository.**
 
-## How to use a tool
+## Getting started
 
-1. Open the relevant tool folder in this repository.
-2. Read its instructions, requirements and any limitations.
-3. Download the HTML file (and any accompanying assets that it requires).
-4. Open the downloaded file in a compatible web browser.
-5. Follow the individual tool's guidance before entering or exporting information.
+Once a tool is published:
 
-Some tools may work entirely offline. Others may depend on an internet connection, external websites, browser features or third-party integrations. **A tool being provided as an HTML file does not automatically mean it is fully offline or that its data stays on your device.** Check the tool's own documentation.
+1. Select the tool from the collection.
+2. Read its description and usage notes.
+3. Download the HTML file and any accompanying files it requires.
+4. Open it in your web browser and follow the tool-specific instructions.
 
-## Published tools
+Some tools may work offline; others may need an internet connection or access to external services. Check the information supplied with each tool. Downloading an HTML file does not, by itself, guarantee that information remains exclusively on your device.
 
-The collection is being established. Tools will be listed here with a description and a link to their folder **as they are added and reviewed**.
+## Available tools
 
-| Tool | Purpose | Link |
-| --- | --- | --- |
-| *No tools published yet* | The repository currently contains documentation only. | — |
+**The collection is being prepared.** Links to the individual tools will be added here as they become available.
 
-## Intended repository layout
+You can bookmark this page or return to it for newly published utilities.
 
-As tools are added, each should have its own folder, for example:
+## A note on professional use and data privacy
 
-```text
-local_advisor_files/
-├── README.md
-├── tools/
-│   └── tool-name/
-│       ├── index.html
-│       ├── README.md
-│       └── assets/             # Only if required
-└── docs/                       # Optional shared documentation
-```
+These are workflow aids, not replacements for your agency's procedures, current supplier requirements or professional judgement. Always verify booking details, GDS entries, fares, calculations and documentation before relying on them operationally.
 
-A tool-specific README should explain its purpose, how to run it, dependencies, data storage, known limitations and version.
+Before entering personal or sensitive client information, review the individual tool's data handling and storage information. Avoid using real traveller records with any tool that has not been assessed for your organisation's privacy and security requirements.
 
-## Privacy, security and professional use
+Tools may be released at different stages of development. Any known limitations will be identified with the relevant download.
 
-- **Do not commit real customer information**, passport details, payment card data, booking records, API keys, passwords or other confidential material to this public repository.
-- Before using a tool with personal or commercially sensitive information, inspect how it stores, processes, exports and transmits data.
-- Local browser storage, downloaded files and shared computers can create privacy risks. Clear or secure information appropriately.
-- Independently verify outputs before entering commands into a live GDS, making a booking, quoting prices, issuing documentation or advising a traveller.
-- Any GDS entry examples or calculations are aids to professional work, not substitutes for current provider rules, authorised procedures or advisor judgement.
-- Use third-party websites, supplier content and affiliate integrations in accordance with their terms and applicable requirements.
+## Feedback and suggestions
 
-These tools are provided for informational and workflow-support purposes. Individual tools may be prototypes, demonstrations or works in progress and may require testing before operational use.
+Have a repetitive task that could benefit from a straightforward browser-based tool? Suggestions and constructive feedback are welcome through this repository's GitHub Issues section, if enabled.
 
-## Downloads and sharing
-
-Share the main repository link:
-
-**https://github.com/TravelID/local_advisor_files**
-
-For a specific tool, share its own folder or release link once it has been uploaded. This helps other advisors find the latest instructions and the associated files.
-
-GitHub is the source and download location; simply viewing an HTML file in GitHub does **not** run the application. Download and open it as described in the tool's instructions.
-
-## Contributions and feedback
-
-Suggestions, bug reports and workflow ideas are welcome through GitHub Issues, where enabled. When reporting a problem, include the tool name, browser, steps to reproduce and the expected result. **Do not include real traveller or client data in public reports.**
-
-## Project status
-
-**Collection being established.** The first tools will be published incrementally, with each utility documented separately.
+Please do not include client details, booking references, passport data or other confidential information in public feedback.
 
 ---
 
-**Local Advisor Files — built around the practical needs of travel advisors.**
+**Made for travel advisors, with a focus on practical workflows and less repetitive work.**
