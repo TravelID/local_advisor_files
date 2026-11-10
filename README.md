@@ -24,10 +24,10 @@ Each published tool has its own download link, instructions and any relevant req
 
 To use a published tool:
 
-1. Select the tool from the collection.
-2. Read its description and usage notes.
-3. Download the HTML file and any accompanying files it requires.
-4. Open it in your web browser and follow the tool-specific instructions.
+1. Click the **Download HTML file** link for your chosen tool.
+2. If your browser displays the raw text rather than saving it, right-click the download link and select **Save link as** (or use **Ctrl+S / Cmd+S**). Keep the `.html` extension.
+3. Double-click the saved HTML file to open the form in your browser.
+4. Follow the tool's instructions.
 
 Some tools may work offline; others may need an internet connection or access to external services. Check the information supplied with each tool. Downloading an HTML file does not, by itself, guarantee that information remains exclusively on your device.
 
@@ -35,7 +35,7 @@ Some tools may work offline; others may need an internet connection or access to
 
 | Tool | Description | Version | Download / Instructions |
 | --- | --- | --- | --- |
-| **Cruise Advisor Qualification Form** | A structured cruise consultation checklist covering client preferences, destinations, cabins, inclusions, travel arrangements and follow-up steps. Print to A4 or export answers to CSV. | **v1.0** | [Get the form](tools/cruise-advisor-qualification-form/README.md) · [Download HTML](tools/cruise-advisor-qualification-form/Cruise_Advisor_Qualification_Form_v1.0.html) |
+| **Cruise Advisor Qualification Form** | A structured cruise consultation checklist covering client preferences, destinations, cabins, inclusions, travel arrangements and follow-up steps. Print to A4 or export answers to CSV. | **v1.0** | **[⬇ Download HTML file](https://github.com/TravelID/local_advisor_files/raw/refs/heads/main/tools/cruise-advisor-qualification-form/Cruise_Advisor_Qualification_Form_v1.0.html)** · [Instructions](tools/cruise-advisor-qualification-form/README.md) |
 
 More advisor tools will be listed here as they are released.
 
