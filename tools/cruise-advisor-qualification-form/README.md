@@ -16,13 +16,16 @@ Use this browser-based form during a client conversation to capture cruise prefe
 
 ## Download and use
 
-**[Download Cruise Advisor Qualification Form v1.0](Cruise_Advisor_Qualification_Form_v1.0.html)**
+### [⬇ Download Cruise Advisor Qualification Form v1.0](https://github.com/TravelID/local_advisor_files/raw/refs/heads/main/tools/cruise-advisor-qualification-form/Cruise_Advisor_Qualification_Form_v1.0.html)
 
-1. Open the link above and use GitHub's **Download raw file** option (or choose **Raw** and save the file).
-2. Save the HTML file to your computer.
-3. Open it in Chrome, Edge or another modern browser.
-4. Complete the form during the consultation.
-5. Select **Print / Save PDF** for a printable copy, or **Export to Excel** for a CSV file.
+**Download the HTML file — you do not need to read or copy code.**
+
+1. Click **Download Cruise Advisor Qualification Form v1.0** above. Depending on your browser, the file may download directly or open as text. If it opens as text, use **Ctrl+S** (Windows) or **Cmd+S** (Mac), or right-click the link and choose **Save link as**. Keep the filename ending in `.html`.
+2. Find the downloaded `.html` file and double-click it to open the form in Chrome, Edge or another modern browser.
+3. Complete the form during your consultation.
+4. Select **Print / Save PDF** for a printable copy, or **Export to Excel** to download a CSV file.
+
+[View the HTML source on GitHub](Cruise_Advisor_Qualification_Form_v1.0.html) *(optional — for technical users)*.
 
 The file is designed to run locally. No installation, login or database is required. The form does not automatically save entries; if you close the page, unsaved responses may be lost.
 
